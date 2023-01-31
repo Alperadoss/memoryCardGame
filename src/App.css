@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Marvel", sans-serif;
+}
+
+html {
+  background-image: url("./images/marvelheros.jpeg");
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  overflow: auto;
+}
+
+.header {
+  background: rgba(255, 2, 2, 0.7);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 10px;
+  color: white;
+}
+
+.main-title {
+  font-family: "Marvel";
+  font-size: 38px;
+  font-weight: 700;
+  letter-spacing: -3px;
+}
+
+.score-board {
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+  font-size: 20px;
+}
+
+.current-score {
+  display: inline-block;
+}
+
+.best-score {
+  display: inline-block;
+}
+
+.card-container {
+  width: 100%;
+  display: grid;
+  padding: 15px 10px;
+  margin-top: 15px;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 270px));
+  justify-content: space-around;
+  column-gap: 10px;
+  row-gap: 10px;
+}
+
+.card {
+  text-align: center;
+  color: white;
+  outline: none;
+  cursor: pointer;
+  font-size: 20px;
+  margin-bottom: 15px;
+  padding: 20px;
+  border-radius: 18px;
+  font-weight: 1000;
+  letter-spacing: 1px;
+  background-color: rgba(0, 0, 0, 0.7);
+  transition: 0.5s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+img {
+  display: block;
+  margin: 10px auto;
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 15px;
+}
+
+figcaption {
+  margin-top: 10px;
+}
+
+a {
+  color: white;
+}
+
+.footerdiv {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.7);
+  height: 2rem;
+}
