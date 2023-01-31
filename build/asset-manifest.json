@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7e4f1824.css",
+    "main.js": "/static/js/main.227616d1.js",
+    "static/media/marvelheros.jpeg": "/static/media/marvelheros.002999310961cb9cf682.jpeg",
+    "static/media/thor.png": "/static/media/thor.10b0dbe3e6e979aaaf34.png",
+    "static/media/nickfury.png": "/static/media/nickfury.2fa3c71d6efa34aeb251.png",
+    "static/media/captainamerica.jpeg": "/static/media/captainamerica.b7ce97563f1c67682218.jpeg",
+    "static/media/blackpanther.png": "/static/media/blackpanther.be93c8876b3d7c7f2eaf.png",
+    "static/media/cyclops.jpeg": "/static/media/cyclops.096164c6a200d3275810.jpeg",
+    "static/media/wolverine.jpeg": "/static/media/wolverine.405cda35855cf58a351b.jpeg",
+    "static/media/drstrange.jpeg": "/static/media/drstrange.5e5ec1724ab216b5bea1.jpeg",
+    "static/media/ironman.jpeg": "/static/media/ironman.d85e45e897695debb34f.jpeg",
+    "static/media/hulk.jpeg": "/static/media/hulk.e10b66230bb3ced89748.jpeg",
+    "static/media/magneto.jpeg": "/static/media/magneto.e9d62956ecdcce76434c.jpeg",
+    "static/media/antman.jpeg": "/static/media/antman.34bcc3c70cc3432ebdd1.jpeg",
+    "static/media/loki.jpeg": "/static/media/loki.7ebbd4d9527ef54559bf.jpeg",
+    "static/media/punisher.jpeg": "/static/media/punisher.23cc2b469c03efbcff2a.jpeg",
+    "static/media/spiderman.jpeg": "/static/media/spiderman.8a6228c659510cffc245.jpeg",
+    "static/media/deadpool.jpeg": "/static/media/deadpool.07ae04cda5421dfb7239.jpeg",
+    "index.html": "/index.html",
+    "main.7e4f1824.css.map": "/static/css/main.7e4f1824.css.map",
+    "main.227616d1.js.map": "/static/js/main.227616d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e4f1824.css",
+    "static/js/main.227616d1.js"
+  ]
+}
