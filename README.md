@@ -7,4 +7,3 @@ This project is made for The Odin Project curriculum to practise;
  - React Hooks
  - State management
 
-for live demo:
